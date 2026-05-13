@@ -5,4 +5,4 @@ print("my most latest third line")
 
 print("CHANGE FOR SECOND COMMIT")
 print("CHANGE FOR THIRD COMMIT")
-print("CHNAGE FOR FOURTH COMMIT")
+print("CHANGE FOR FOURTH COMMIT")
